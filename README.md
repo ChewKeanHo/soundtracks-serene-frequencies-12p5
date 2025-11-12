@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Serene Frequencies 12.5 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Here you go. Another successful ambient chillwave soundtrack just for the
+video production usage. Enjoy!
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #instrumental #ambient
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Serene-Frequencies-12p5.mp3
+  Size: 6701056         Blocks: 13088      IO Block: 4096   regular file
+Device: 253,2   Inode: 40768528    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-12 10:09:44.738754266 +0800
+Modify: 2025-11-12 10:09:22.714646928 +0800
+Change: 2025-11-12 10:09:22.714646928 +0800
+ Birth: 2025-04-28 10:30:53.159830676 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-03
+On YouTube since : 2025-07-28
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=NtfA5xjSmds)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Serene Frequencies 12.5
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-serene-frequencies-12.5
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
